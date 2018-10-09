@@ -1,2 +1,3 @@
 # tu-iete.github.io
-Official Website of IETE Student's Forum, Thapar University
+The Official Website of IETE Students' Forum, Thapar Institute of Engineering and Technology.
+
